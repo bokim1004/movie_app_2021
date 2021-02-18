@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bokim1004/movie_app_2021/static/css/main.74da66a8.chunk.css",
+    "main.js": "/bokim1004/movie_app_2021/static/js/main.44e81962.chunk.js",
+    "main.js.map": "/bokim1004/movie_app_2021/static/js/main.44e81962.chunk.js.map",
+    "runtime-main.js": "/bokim1004/movie_app_2021/static/js/runtime-main.9adc70b7.js",
+    "runtime-main.js.map": "/bokim1004/movie_app_2021/static/js/runtime-main.9adc70b7.js.map",
+    "static/js/2.abac5bf7.chunk.js": "/bokim1004/movie_app_2021/static/js/2.abac5bf7.chunk.js",
+    "static/js/2.abac5bf7.chunk.js.map": "/bokim1004/movie_app_2021/static/js/2.abac5bf7.chunk.js.map",
+    "index.html": "/bokim1004/movie_app_2021/index.html",
+    "static/css/main.74da66a8.chunk.css.map": "/bokim1004/movie_app_2021/static/css/main.74da66a8.chunk.css.map",
+    "static/js/2.abac5bf7.chunk.js.LICENSE.txt": "/bokim1004/movie_app_2021/static/js/2.abac5bf7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9adc70b7.js",
+    "static/js/2.abac5bf7.chunk.js",
+    "static/css/main.74da66a8.chunk.css",
+    "static/js/main.44e81962.chunk.js"
+  ]
+}
